@@ -1,0 +1,8 @@
+.coreButton {
+  border-radius: var(--maestro-spacing-xxl);
+  text-transform: unset;
+
+  &__childrenIsString {
+    padding: var(--maestro-spacing-10) var(--maestro-spacing-m);
+  }
+}
